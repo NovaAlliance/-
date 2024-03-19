@@ -1,7 +1,7 @@
 # NovaAlliance
 
 <div align="center">
-  <img src="Novaalliance_image.jpg" alt="NovaAlliance Avatar" width="200" height="200">
+  <img src="Novaalliance_image.jpg" alt="NovaAlliance Avatar" >
 </div>
 
 ---
